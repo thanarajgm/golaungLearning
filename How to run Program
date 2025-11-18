@@ -1,2 +1,5 @@
-go run filename.go
-exe file :   go build filename.go.
+Intial setup commands for go project
+ 
+ go mod init example.com
+ go mod tidy
+ go run main.go or go run .
