@@ -1,0 +1,2 @@
+go run filename.go
+exe file :   go build filename.go.
