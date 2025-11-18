@@ -1,5 +1,5 @@
 Intial setup commands for go project
  
- go mod init example.com
- go mod tidy
- go run main.go or go run .
+ go mod init example.com  --> /*same as python requirement.txt concept*/
+ go mod tidy              -->/* same as python requiremet.txt run */
+ go run main.go or go run.  /* go run filename.go*/
